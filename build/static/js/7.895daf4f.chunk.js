@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-great-quotes-app"]=this["webpackJsonpreact-great-quotes-app"]||[]).push([[7],{54:function(e,t,a){"use strict";a.r(t);var c=a(1);t.default=function(){return Object(c.jsx)("div",{className:"centered",children:Object(c.jsx)("p",{children:"Page not found!"})})}}}]);
+//# sourceMappingURL=7.895daf4f.chunk.js.map
